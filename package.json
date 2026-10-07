@@ -1,7 +1,7 @@
 {
   "name": "nexuslogistics",
   "version": "1.0.0",
-  "description": "NexusLogistics — Nexus suite workspace.",
+  "description": "2A_Stack Logistics — Nexus suite workspace.",
   "private": true,
   "scripts": {
     "start": "python3 -m http.server 8803 --bind 127.0.0.1",

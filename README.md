@@ -1,12 +1,12 @@
-# NexusLogistics
+# 2A_Stack Logistics
 
-Logistics Control Tower — shipments, routes, warehouses, fleet, carriers, exceptions and analytics.
+Logistics Logistics Control Tower — shipments, routes, warehouses, fleet, carriers, exceptions and analytics.
 
 Part of the **Nexus suite** — five interconnected but independent workspaces, each a self-contained static web app (no build step, no framework, no runtime dependencies):
 
 - [NexusDistro](https://abraar05.github.io/NexusDistro/) — Wholesale ERP
 - [NexusPeople](https://abraar05.github.io/NexusPeople/) — People & Admin
-- [NexusLogistics](https://abraar05.github.io/NexusLogistics/) — Logistics Control Tower
+- [2A_Stack Logistics](https://abraar05.github.io/2A_Stack Logistics/) — Logistics Logistics Control Tower
 - [NexusPortal](https://abraar05.github.io/NexusPortal/) — Customer Portal
 - [NexusCRM](https://abraar05.github.io/NexusCRM/) — CRM
 
@@ -35,8 +35,8 @@ npm run check      # syntax-check the JS
 
 ## Deploy (GitHub Pages)
 
-1. Create a new repo named `NexusLogistics` and push this folder.
+1. Create a new repo named `2A_Stack Logistics` and push this folder.
 2. In the repo: **Settings → Pages → Source: GitHub Actions**.
 3. The included `.github/workflows/pages.yml` deploys on every push to `main`.
 
-Site URL: `https://abraar05.github.io/NexusLogistics/`
+Site URL: `https://abraar05.github.io/2A_Stack Logistics/`
